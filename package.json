@@ -1,0 +1,13 @@
+{
+  "name": "pokemon-card-management",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "lint": "echo 'No lint step configured'",
+    "deploy": "clasp push",
+    "link": "node scripts/link.js"
+  },
+  "devDependencies": {
+    "@google/clasp": "^2.4.2"
+  }
+}
